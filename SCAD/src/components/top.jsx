@@ -32,10 +32,10 @@ const Top = () => {
         <div className=" w-7xl h-0.5 bg-gray-300 m-auto"></div>
       </div>
       <div className="flex justify-center items-center gap-20 mt-10">
-        <h1 className=" font-semibold text-2xl text-gray-400">О нас</h1>
-        <h1 className=" font-semibold text-2xl text-gray-400">Производство</h1>
-        <h1 className=" font-semibold text-2xl text-gray-400">Документация</h1>
-        <h1 className=" font-semibold text-2xl text-gray-400">Контакты</h1>
+        <h1 className=" font-semibold text-2xl text-gray-400 cursor-pointer">О нас</h1>
+        <h1 className=" font-semibold text-2xl text-gray-400 cursor-pointer">Производство</h1>
+        <h1 className=" font-semibold text-2xl text-gray-400 cursor-pointer">Документация</h1>
+        <h1 className=" font-semibold text-2xl text-gray-400 cursor-pointer">Контакты</h1>
       </div>
     </div>
   );
