@@ -21,13 +21,13 @@ const Middle = () => {
        </div>
 
        <div className='w-150 mt-30'>
-        <div className=' flex  items-center gap-10'><img src={comp} alt="" /> <p className=' text-3xl'>Системы поддержки принятия решений, анализа и управления</p></div>
+        <div className=' flex  items-center gap-10'><img src={comp} alt="" /> <p className=' text-3xl'>Диспетчерские Системы</p></div>
         <div className='w-70 h-1 bg-red-500 mt-7'></div>
         <p className=' mt-7 w-120'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio exercitationem corporis cumque, possimus commodi magnam pariatur nemo iste asperiores ipsa dolores quibusdam ad sint voluptatum, repellat voluptate? Impedit, porro earum.</p>
        </div>
 
        <div className='w-150 mt-30'>
-        <div className=' flex  items-center gap-10'><img src={strc} alt="" /> <p className=' text-3xl'>Системы поддержки принятия решений, анализа и управления</p></div>
+        <div className=' flex  items-center gap-10'><img src={strc} alt="" /> <p className=' text-3xl'>Автоматизированные Системы управления и учета</p></div>
         <div className='w-70 h-1 bg-red-500 mt-7'></div>
         <p className=' mt-7 w-120'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio exercitationem corporis cumque, possimus commodi magnam pariatur nemo iste asperiores ipsa dolores quibusdam ad sint voluptatum, repellat voluptate? Impedit, porro earum.</p>
        </div>
